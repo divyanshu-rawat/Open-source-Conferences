@@ -15,3 +15,7 @@ Links to various open-source conferences related to computer science.
 **TechMeme conference list**: https://github.com/johncoleman83/Open-source-Conferences.git
 
 **OpenSource.com**: https://opensource.com/resources/conferences-and-events-monthly
+
+**Code and talk**: https://codeandtalk.com/conferences
+
+**Red Hat Open Source event**: https://community.redhat.com/events/
